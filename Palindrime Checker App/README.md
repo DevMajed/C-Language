@@ -1,17 +1,5 @@
-# C-Language
-
-# Converter
+# Palindrome Checker 
 
 This was part of a C programing course that i took during my undegrad study \
-This program will take an intial value, a final valie, and an increment value,
-Then it will display the equivalent values in other units.
-
-
- In this program : \
-init = initial value \
-final = final value \
-inc = increment value \
-k = kilometers/hour \
-r = rods/min \
-f = furlongs/fortnight \
-s = smooths/second 
+A palindrome is a word, number, phrase, or other sequence of characters which reads the same backward as forward,\
+This program will check if the intered sequence is a palindrome or no.
