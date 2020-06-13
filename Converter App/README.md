@@ -12,4 +12,4 @@ inc = increment value \
 k = kilometers/hour \
 r = rods/min \
 f = furlongs/fortnight \
-s = smooths/second \
+s = smooths/second 
